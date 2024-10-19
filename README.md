@@ -6,7 +6,7 @@ Welcome to the **Fantasy RSPS Guide Generator**, a comprehensive Java-based tool
 
 ## Overview
 
-[**Fantasy RSPS**](https://fantasyps.org) is a unique RuneScape Private Server (RSPS) that features a wide range of custom content, including new bosses, raids, skilling activities, and much more. The goal of this project is to provide players with a seamless experience when exploring the world of Fantasy, offering detailed guides for quests, bosses, skilling, and economy management.
+Fantasy RSPS is a unique RuneScape Private Server (RSPS) that features a wide range of custom content, including new bosses, raids, skilling activities, and much more. The goal of this project is to provide players with a seamless experience when exploring the world of Fantasy, offering detailed guides for quests, bosses, skilling, and economy management.
 
 With the Fantasy RSPS Guide Generator, you can quickly create in-depth, player-friendly guides tailored to specific activities within the game. These guides cover a wide variety of topics, from mastering combat mechanics to crafting powerful weapons.
 
@@ -22,7 +22,7 @@ With the Fantasy RSPS Guide Generator, you can quickly create in-depth, player-f
 - **Economy and Market Insights:** Provides real-time data on item prices, helping players to understand and navigate the game's dynamic economy.
 - **Player Progress Tracking:** Allows players to track their progress through various guides, ensuring they can easily pick up where they left off.
 
-For more information on Fantasy RSPS features and gameplay mechanics, you can check out the official guides on [Fantasy Guides](https://fantasyps.org/guides).
+For more information on Fantasy RSPS features and gameplay mechanics, you can check out the official guides on Fantasy Guides.
 
 ---
 
